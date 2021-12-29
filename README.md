@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LanstonDsouza
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning MC
+- 🌱 I’m currently pursuing MCA
 - 📫 How to reach me by lanston1235@gmail.com
 
 <!---
